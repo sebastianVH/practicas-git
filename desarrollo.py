@@ -1,1 +1,1 @@
-print("Creado desde Desarrollo")
+print("Creado para Desarrollo")
