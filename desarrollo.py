@@ -1,1 +1,1 @@
-print("Creado desde la rama Desarrollo")
+print("Creado desde Desarrollo")
